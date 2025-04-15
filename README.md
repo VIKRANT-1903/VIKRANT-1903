@@ -1,5 +1,10 @@
-# 💫 About Me:
-## 🧠 About Me :<br><br>🛠️ I’m currently working on **Real Time Device Tracker** – a live-tracking system inspired by apps like Zomato & Uber  <br>🤝 I’m looking to collaborate on **innovative web/app development projects**, especially those involving maps or real-time data  <br>🧩 I’m looking for help with **optimizing performance and scalability of backend systems**  <br>🌱 I’m currently learning **Next.js, WebSockets, and system design fundamentals**  <br>💬 Ask me about **how we handled live tracking logic or any projects involving geolocation APIs**  <br>⚡ Fun fact: I can debug better at 2 AM than at 2 PM ☕<br>
+## 🧠 About Me :
+
+🛠️ Working on a Real-Time Device Tracker  
+🤝 Open to web/app collab projects   
+🌱 Learning Next.js & WebSockets  
+💬 Ask me about live tracking logic  
+⚡ Fun fact: I debug best at 2 AM 😄
 
 
 ## 🌐 Socials:
