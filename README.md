@@ -23,12 +23,9 @@
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKRANT-1903&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
 
-## 🥇 My GitHub Milestones
+## 🏅 GitHub Trophy Cabinet
 
-![Followers](https://img.shields.io/github/followers/VIKRANT-1903?label=Followers&style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/github/stars/VIKRANT-1903?label=Profile%20Stars&style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-💻%20`XX`-brightgreen?style=for-the-badge&logo=github) <!-- Replace XX with actual number -->
-![Years Active](https://img.shields.io/badge/Years%20on%20GitHub-2-blueviolet?style=for-the-badge&logo=github) <!-- Change year -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=VIKRANT-1903&theme=algolia&no-frame=true&column=7)](https://github.com/VIKRANT-1903)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
