@@ -23,10 +23,6 @@
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKRANT-1903&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
 
-## 🏅 GitHub Trophy Cabinet
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=VIKRANT-1903&theme=algolia&no-frame=true&column=7)](https://github.com/VIKRANT-1903)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
