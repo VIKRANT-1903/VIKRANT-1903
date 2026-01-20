@@ -1,8 +1,8 @@
 ## 🧠 About Me :
 
-🛠️ Working on a Real-Time Device Tracker  
+🛠️ Working as a Software Developer @Engati
 🤝 Open to web/app collab projects   
-🌱 Learning Next.js & WebSockets  
+🌱 Learning Java and Backend 
 💬 Ask me about live tracking logic  
 ⚡ Fun fact: I debug best at 2 AM 😄
 
