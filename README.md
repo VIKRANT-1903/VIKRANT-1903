@@ -1,9 +1,9 @@
 ## 🧠 About Me :
 
-🛠️ Working as a Software Developer @Engati
+🛠️ Working as a Software Developer
 🤝 Open to web/app collab projects   
 🌱 Learning Java and Backend 
-💬 Ask me about live tracking logic  
+💬 Ask me about how System works  
 ⚡ Fun fact: I debug best at 2 AM 😄
 
 
